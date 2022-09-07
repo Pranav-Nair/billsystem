@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1618052986 source:c:\users\prana\desktop\cpp project\source\billobj.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	"customerobj.cpp"
+	"productobj.cpp"
+
+1618062066 c:\users\prana\desktop\cpp project\source\customerobj.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<fstream>
+	<ctime>
+
+1618061879 c:\users\prana\desktop\cpp project\source\productobj.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string.h>
+
+1618062066 source:c:\users\prana\desktop\cpp project\source\customerobj.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<fstream>
+	<ctime>
+
+1618150612 source:c:\users\prana\desktop\cpp project\source\main.cpp
+	<iostream>
+	<iomanip>
+	<process.h>
+	<dir.h>
+	"billobj.h"
+
+1618052986 c:\users\prana\desktop\cpp project\source\billobj.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	"customerobj.cpp"
+	"productobj.cpp"
+
+1618061879 source:c:\users\prana\desktop\cpp project\source\productobj.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string.h>
+
+1618151184 c:\users\prana\desktop\cpp project\source\billobj.h
+	<iostream>
+	<iomanip>
+	<string.h>
+	"customerobj.h"
+	"productobj.h"
+
+1618149014 c:\users\prana\desktop\cpp project\source\customerobj.h
+	<iostream>
+	<iomanip>
+	<string.h>
+	<fstream>
+	<ctime>
+
+1618137317 c:\users\prana\desktop\cpp project\source\productobj.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string.h>
+
+1620226989 source:c:\users\prana\desktop\billsystem\main.cpp
+	<iostream>
+	<iomanip>
+	<process.h>
+	<dir.h>
+	"billobj.h"
+
+1620826785 c:\users\prana\desktop\billsystem\billobj.h
+	<iostream>
+	<iomanip>
+	<string.h>
+	"customerobj.h"
+	"productobj.h"
+	"shopinfo.h"
+
+1620826749 c:\users\prana\desktop\billsystem\customerobj.h
+	<iostream>
+	<iomanip>
+	<string.h>
+	<fstream>
+	<ctime>
+
+1620828520 c:\users\prana\desktop\billsystem\productobj.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string.h>
+
+1620227160 c:\users\prana\desktop\billsystem\shopinfo.h
+	<iostream>
+	<iomanip>
+	<string.h>
+
